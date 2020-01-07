@@ -17,7 +17,6 @@ string mixText(string a, string b){
 	}
 	return y;
 }
-
 int main(){	
 	cout << mixText("AAA","BBB") << "\n";
 	cout << mixText("Hello","World") << "\n";
